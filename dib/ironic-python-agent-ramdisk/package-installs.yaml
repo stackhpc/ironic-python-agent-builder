@@ -8,6 +8,7 @@ lshw:
 ipmitool:
 qemu-utils:
 gcc:
+gcc-c++:
 python-dev:
 parted:
 hdparm:
